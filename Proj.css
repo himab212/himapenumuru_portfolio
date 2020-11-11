@@ -1,0 +1,44 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    width: auto;
+    padding: 10px ;
+    margin: 10px;
+    display: inline-grid;
+}  
+.card:hover {
+box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2);
+}
+.details{
+	padding: 0px;
+    max-width:150px;
+    border:none;
+}
+
+.im{
+    width: 150px;
+}
+.img{
+    width: 150px;
+}
+.img:hover {
+    transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+@media only screen and (max-width: 768px) {
+    .all-cards{
+        display: block;
+    }
+    .card{
+        padding-top: 20px;
+        display: block;
+    }  
+    .card:hover {
+        box-shadow: none;
+    }
+    .details{
+        display: block;
+        max-width: fit-content;
+    }
+    .summary{
+        display: block;
+    }
+}

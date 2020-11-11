@@ -1,0 +1,97 @@
+{
+    "basics": {
+      "name": "Virat Bhatt",
+      "label": "Software Developer",
+      "picture": "",
+      "email": "viratbhatt007@gmail.com",
+      "phone": "(424) 391-4863",
+      "website": "",
+      "summary": "I am a Computer Engineer with experience in software development. Worked as a freelancer and helped businesses to grow across different areas. I am creative, self-motivated, quick learning individual.",
+      "location": {
+        "address": "3200 E Palm Drive",
+        "postalCode": "CA 92831",
+        "city": "Fullerton",
+        "countryCode": "US",
+        "region": "California"
+      },
+      "profiles": [{
+        "network": "Linkedin",
+        "username": "virat bhatt",
+        "url": "http://linkedin.com/in/virat-bhatt"
+      }]
+    },
+    "work": [{
+      "company": "I-Tech Media",
+      "position": "Web Developer",
+      "website": "http://company.com",
+      "startDate": "Sep,2016",
+      "endDate": "Nov,2017",
+      "summary": ""
+    }],
+    "volunteer": [{
+      "organization": "Titan Rover",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "Jan,2019",
+      "endDate": "Dec,2019",
+      "summary": "Designing the next generation of Mars Rovers and exploring into innovative technologies that would be beneficial for scientific discovery. The rover will be inspired by current rover designs especially a rocker – bogie configuration.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Mumbai University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "Aug-2012",
+      "endDate": "Aug=2016",
+      "gpa": "3.1",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+        "institution": "University of California-Fullerton",
+        "area": "Computer Engineering",
+        "studyType": "Masters",
+        "startDate": "Jan-2018",
+        "endDate": "Jan-2020",
+        "gpa": "3.27",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      }],
+    "awards": [{
+      "title": "Python Certification",
+      "date": "21 Sep, 2020",
+      "awarder": "Hackerrank",
+      "summary": "It covers topics like Scalar Types, Operators and Control Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes"
+    }],
+    "technologies": [{
+      "programming Languages": ["HTML","CSS","Javascript","React","Python","Numpy","Pandas"],
+      "Software": []
+
+    }],
+    "Projects":[{
+        "title":"Barcode Generator",
+        "Description":"Custom Barcode generator for local business, it supported over 11 different barcode formats. Barcodes can be obtained in different formats. This decreased stoking time for goods, customer waiting time and increased revenue.",
+        "Link": "#"
+    },
+    {
+        "title":"Barcode Generator",
+        "Description":"During this difficult time of COVID-19 I tried to make a covid-19 tracker using react and open source data.",
+        "Link": "https://objective-liskov-4ed96e.netlify.app"        
+    },
+    {
+        "title":"To Do",
+        "Description":"Simple to do react app",
+        "Link": ""        
+    },
+    {
+        "title":"E-commerence Website",
+        "Description":"Simple E-commerence website.",
+        "Link": "https://www.herbsnleaf.com/"        
+    }
+
+]
+  }
